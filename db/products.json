@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "Linea Susan",
+    "object": "Maceta",
+    "title": "Face",
+    "description": "Macetas con rostros pintados a mano",
+    "code": "LS001",
+    "stock": 50,
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "category": "Linea Susan",
+    "object": "Maceta",
+    "title": "Lady",
+    "description": "Macetas hecha con forma de cuerpo",
+    "code": "LS002",
+    "stock": 40,
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "category": "Linea Susan",
+    "object": "Maceta",
+    "title": "Black&White",
+    "description": "Macetas con diseños abstractos",
+    "code": "LS003",
+    "stock": 30,
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "category": "Linea Angie",
+    "object": "Colgante",
+    "title": "Arcoiris",
+    "description": "Adorno de alambre en forma de Arcoiris decorado con piedras transparentes",
+    "code": "LA001",
+    "stock": 35,
+    "price": 1100
+  },
+  {
+    "id": 5,
+    "category": "Linea Prueba",
+    "object": "para borrar",
+    "title": "para prueba del  deleteProduct",
+    "description": "deleteProduct",
+    "code": "Lxxxx",
+    "stock": 30,
+    "price": 2000
+  }
+]
